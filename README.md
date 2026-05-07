@@ -1,2 +1,7 @@
-# Balls-farm
-Privacy policy for Balls Farm game
+# Ферма шариков
+
+Публичная страница политики конфиденциальности для мобильной игры «Ферма шариков».
+
+После включения GitHub Pages в настройках репозитория ссылка будет выглядеть так:
+
+`https://blazar-source.github.io/Balls-farm/`
